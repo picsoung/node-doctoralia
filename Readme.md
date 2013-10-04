@@ -6,7 +6,7 @@ This is a simple wrapper for the Doctoralia API.
 
 ## Installing
 
-`npm install doctoralia
+`npm install doctoralia`
 
 ## Developer Portal
 
