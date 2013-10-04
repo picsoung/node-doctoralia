@@ -44,5 +44,5 @@ doc.getProfessionals('fr',{
 
 ## Credits
 
-Inspired by the great [tutorial](http://anders.janmyr.com/2012/04/writing-node-module.html) from [@andersjanmyr](https://github.com/andersjanmyr) to write NPM module
-Simple Slideshare NPM package [node-slideshare](https://github.com/adityab/node-slideshare) by [@adityab](https://github.com/adityab)
++ Inspired by the great [tutorial](http://anders.janmyr.com/2012/04/writing-node-module.html) from [@andersjanmyr](https://github.com/andersjanmyr) to write NPM module
++ Simple Slideshare NPM package [node-slideshare](https://github.com/adityab/node-slideshare) by [@adityab](https://github.com/adityab)
