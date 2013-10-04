@@ -1,7 +1,7 @@
 {
-  "name": "node-doctoralia",
+  "name": "doctoralia",
   "version": "0.0.1",
-  "description": "Doctoralia API unofficial  wrapper",
+  "description": "Doctoralia API unofficial wrapper, helps you search for Doctors and Medical Centers in the world.",
   "main": "lib/doctoralia.js",
   "dependencies": {
     "restler": "~2.0.1"
@@ -21,12 +21,17 @@
     "doctoralia",
     "health",
     "doctor",
+    "medical",
     "API"
   ],
-  "author": "Nicolas Grenié (@picsoung)",
-  "license": "BSD",
-  "gitHead": "cdfff3857f7ba5ea821eb8941047463d0b3a481e",
+  "author": {
+    "name" : "Nicolas Grenié",
+    "email" : "me@nicolasgrenie.com",
+    "url" : "http://nicolasgrenie.com"
+  },
+  "license": "MIT",
   "readmeFilename": "Readme.md",
+  "homepage": "https://github.com/picsoung/node-doctoralia/",
   "bugs": {
     "url": "https://github.com/picsoung/node-doctoralia/issues"
   }
