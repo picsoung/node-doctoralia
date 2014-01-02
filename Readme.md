@@ -46,3 +46,6 @@ doc.getProfessionals('fr',{
 
 + Inspired by the great [tutorial](http://anders.janmyr.com/2012/04/writing-node-module.html) from [@andersjanmyr](https://github.com/andersjanmyr) to write NPM module
 + Simple Slideshare NPM package [node-slideshare](https://github.com/adityab/node-slideshare) by [@adityab](https://github.com/adityab)
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/picsoung/node-doctoralia/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
